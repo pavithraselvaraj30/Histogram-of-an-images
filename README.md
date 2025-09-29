@@ -82,7 +82,9 @@ else:
 # Original Grayscale image
 
  <img width="363" height="336" alt="Screenshot 2025-09-29 114336" src="https://github.com/user-attachments/assets/cf700c5d-da40-4dc9-8f9a-301ef0331712" />
-# Equalizes image
+
+ 
+# Equalized image
 
 <img width="409" height="371" alt="Screenshot 2025-09-29 114348" src="https://github.com/user-attachments/assets/ff36a249-bad4-472e-8006-577c34fd345b" />
 
