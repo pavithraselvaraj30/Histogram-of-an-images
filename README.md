@@ -79,9 +79,20 @@ else:
 ```
 
 ## Output:
+# Original Grayscale image
 
-<img width="363" height="336" alt="Screenshot 2025-09-29 114336" src="https://github.com/user-attachments/assets/635c2e64-6ac7-48ea-b330-ee1a0f703c17" />            <img width="409" height="371" alt="Screenshot 2025-09-29 114348" src="https://github.com/user-attachments/assets/b468eb5a-e00c-469a-9e44-5392594d3803" />
+ <img width="363" height="336" alt="Screenshot 2025-09-29 114336" src="https://github.com/user-attachments/assets/cf700c5d-da40-4dc9-8f9a-301ef0331712" />
+# Equalizes image
 
+<img width="409" height="371" alt="Screenshot 2025-09-29 114348" src="https://github.com/user-attachments/assets/ff36a249-bad4-472e-8006-577c34fd345b" />
+
+# Original Histogram 
+
+<img width="370" height="347" alt="Screenshot 2025-09-29 114405" src="https://github.com/user-attachments/assets/2eb0167d-4e37-4bbc-a9d5-145ee7a4ef0d" />
+
+ # Equalized Histogram
+ 
+ <img width="375" height="339" alt="Screenshot 2025-09-29 114425" src="https://github.com/user-attachments/assets/c48f1173-dc2d-4eb5-a145-147bc53e10aa" />
 
 
 
